@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, SQL,JavaScript, CSharp & NodeJS**
+- 💬 Ask me about **VueJS, SQL,JavaScript, ReactJS & NodeJS**
 
 - 📫 How to reach me **ishikadahiya22@gmail.com**
 
